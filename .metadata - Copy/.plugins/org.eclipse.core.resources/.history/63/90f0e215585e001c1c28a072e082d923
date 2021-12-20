@@ -1,0 +1,12 @@
+package com.te.crud;
+
+public class InsertData {
+public static void main(String[] args) {
+	try {
+		Class.forName("com.mysql.jdbc.driver");
+		
+	} catch (Exception e) {
+		
+	}
+}
+}

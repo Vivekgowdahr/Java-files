@@ -1,6 +1,0 @@
-package com.TY.arraypractise1;
-
-public class Number 
-{
-int [] a= {10,20,900,-62,62,0,0,895};
-}

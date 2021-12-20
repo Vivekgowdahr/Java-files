@@ -1,9 +1,0 @@
-package com.TY.OOP;
-
-public class DairyMilk extends Chocolate {
-public void name() {
-	
-} 
-	
-
-}

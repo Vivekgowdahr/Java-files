@@ -1,0 +1,20 @@
+package com.TechNo.OverRidi;
+
+public class OverRiding2 extends OverRiding 
+{
+public void main1() {
+	System.out.println("nbvnvnbv");
+	
+	
+}
+public void main2() {
+	System.out.println("bnvgvghch");
+	
+}
+
+
+
+
+}
+
+

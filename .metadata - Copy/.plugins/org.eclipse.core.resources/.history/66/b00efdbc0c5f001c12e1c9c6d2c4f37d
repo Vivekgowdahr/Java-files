@@ -1,0 +1,14 @@
+package com.te.storedprocedure;
+
+import java.sql.DriverManager;
+
+public class Demo {
+public static void main(String[] args) {
+	String url="jdbc:mysql://localhost:3306/jdbcdemo";
+	try {
+		DriverManager.getConnection(url, "root", "Vivekgowda@1998");
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+}
+}

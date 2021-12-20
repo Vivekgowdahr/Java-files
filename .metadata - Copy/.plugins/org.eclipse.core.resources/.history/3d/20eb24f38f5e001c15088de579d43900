@@ -1,0 +1,8 @@
+package owncustomeexception;
+
+public class YouCantAccess {
+String message;
+public void YouCantAccess() {
+	this.message=message;
+}
+}

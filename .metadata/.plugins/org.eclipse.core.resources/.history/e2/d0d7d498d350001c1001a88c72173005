@@ -1,7 +1,0 @@
-package com.TY.arrayImpProgram;
-
-public class Eo {
-public static void main(String[] args) {
-int []a= {10,2,96,5,7,9,3,5,125};	
-}
-}

@@ -1,0 +1,8 @@
+package com.te.customeexce;
+
+public class ExceptionClass {
+public void wrongaccess() {
+	System.out.println("Hello... sir");
+	
+}
+}

@@ -1,0 +1,19 @@
+package com.te.crud;
+
+import java.io.FileReader;
+import java.sql.DriverManager;
+import java.util.Properties;
+
+public class PropertiesDemoDelete {
+public static void main(String[] args) {
+	try {
+		FileReader fileReader = new FileReader("C:\\Users\\admin\\Desktop\\dbcred.txt");
+		Properties properties = new Properties();
+		properties.load(fileReader);
+		DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc", properties);
+		
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+}
+}

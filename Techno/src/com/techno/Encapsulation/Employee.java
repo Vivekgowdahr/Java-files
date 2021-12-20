@@ -1,4 +1,4 @@
-package com.techno.Encapsulation;
+package com.techno.encapsulation;
 
 public class Employee
 {

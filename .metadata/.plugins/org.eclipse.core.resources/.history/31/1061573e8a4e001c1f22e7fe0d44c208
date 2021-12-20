@@ -1,5 +1,0 @@
-package com.TE.Exception;
-
-public class StackOverFlowError {
-
-}

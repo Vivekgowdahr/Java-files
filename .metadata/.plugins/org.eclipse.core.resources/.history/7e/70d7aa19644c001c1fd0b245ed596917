@@ -1,7 +1,0 @@
-package com.TechNo.OverRidi;
-
-public abstract class Activa 
-{
-public abstract void statrt() ;
-public abstract void stop();
-}

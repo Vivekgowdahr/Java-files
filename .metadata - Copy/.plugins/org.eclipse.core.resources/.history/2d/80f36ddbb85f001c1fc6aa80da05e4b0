@@ -1,0 +1,9 @@
+package com.te.mock;
+
+import java.util.Scanner;
+
+public class Countvowels {
+	public static void main(String[] args) {
+		Scanner sc=new 
+	}
+}

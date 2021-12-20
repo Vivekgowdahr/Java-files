@@ -1,9 +1,0 @@
-package com.TY.array;
-
-public class Swapping2 {
-public static void main(String[] args) {
-	int []a= {6,10,25,69,2595,2658,25};
-	int temp;
-	
-}
-}

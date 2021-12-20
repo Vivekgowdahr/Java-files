@@ -1,9 +1,9 @@
-package com.techno.Multilevel;
+package com.techno.multilevel;
 
 public class MessageRead extends MessageRecived
 {
 public void msgrecived()
 {
-	System.out.println("message ewad");
+	System.out.println("message read");
 }
 }

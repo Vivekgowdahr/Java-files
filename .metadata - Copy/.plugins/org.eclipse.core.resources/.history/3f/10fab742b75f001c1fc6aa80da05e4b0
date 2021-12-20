@@ -1,0 +1,7 @@
+package com.te.mock;
+
+public class CountAEIOU {
+	public static void main(String[] args) {
+		
+	}
+}

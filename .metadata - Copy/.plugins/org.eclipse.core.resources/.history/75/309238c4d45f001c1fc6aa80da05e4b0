@@ -1,0 +1,14 @@
+package com.te.mock;
+
+import java.util.Scanner;
+
+public class PalUsingMet {
+public static void main(String[] args) {
+	Scanner a= new Scanner(System.in);
+	System.out.println("Enter the string");
+	String b=a.nextLine();
+	StringBuffer s1 =new StringBuffer();
+	StringBuffer s2 = ;
+	
+}
+}

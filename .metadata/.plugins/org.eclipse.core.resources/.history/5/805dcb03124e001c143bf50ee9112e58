@@ -1,9 +1,0 @@
-package com.TY.arraypractise1;
-
-import java.util.Iterator;
-
-public class Sorting
-{
-	int []a= {10,20,60,85,-1,45,-2365};
-	
-}

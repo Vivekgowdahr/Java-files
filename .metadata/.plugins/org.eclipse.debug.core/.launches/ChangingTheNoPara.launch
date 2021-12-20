@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/Techno/src/com/techno/Accesspecifier/ChangingTheNoPara.java"/>
+        <listEntry value="/techno/src/com/techno/accesspecifier/ChangingTheNoPara.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.techno.Accesspecifier.ChangingTheNoPara"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.techno.accesspecifier.ChangingTheNoPara"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Techno"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="techno"/>
 </launchConfiguration>

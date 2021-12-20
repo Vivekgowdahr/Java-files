@@ -1,0 +1,13 @@
+package com.te.arraylist;
+import java.util.*;
+
+public class ArrayListimplem {
+
+
+public static void main(String[] args) {
+	ArrayList<String>  arrayList = new ArrayList<String>();// used to create arraylist object
+	arrayList.add("Vivek Gowda");
+	arrayList.add("Harish");
+	arrayList.add("Raju");
+}
+}

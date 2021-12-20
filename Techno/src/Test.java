@@ -1,4 +1,4 @@
-import com.techno.Accesspecifier.Method;
+import com.techno.accesspecifier.Method;
 public class Test
 {
 

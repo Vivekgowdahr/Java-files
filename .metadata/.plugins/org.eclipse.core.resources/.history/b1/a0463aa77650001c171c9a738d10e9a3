@@ -1,9 +1,0 @@
-package com.TY.OOP;
-
-public class CaliculatornInh 
-{
-static String battery;
-int manualkey;
-int operation;
-
-}

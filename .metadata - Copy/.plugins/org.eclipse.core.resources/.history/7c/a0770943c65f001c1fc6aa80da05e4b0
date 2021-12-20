@@ -1,0 +1,10 @@
+package com.te.array_practise1;
+
+public class CountAEIOU {
+public static void main(String[] args) {
+	String a= "Hi i am from mysore";
+	char []b=a.toCharArray();
+	
+}
+
+}

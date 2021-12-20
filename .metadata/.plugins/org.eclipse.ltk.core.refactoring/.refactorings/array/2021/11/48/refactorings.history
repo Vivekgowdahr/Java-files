@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.TY.array&apos; to &apos;com.TY.arraypractise&apos;&#x0D;&#x0A;- Original project: &apos;array&apos;&#x0D;&#x0A;- Original element: &apos;array/src/com.TY.array&apos;&#x0D;&#x0A;- Renamed element: &apos;array/src/com.TY.arraypractise&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.TY.array&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.TY.array" name="com.TY.arraypractise" qualified="false" references="true" stamp="1637751705001" textual="false" version="1.0"/>
-</session>

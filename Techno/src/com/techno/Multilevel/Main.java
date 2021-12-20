@@ -1,4 +1,4 @@
-package com.techno.Multilevel;
+package com.techno.multilevel;
 
 public class Main {
 

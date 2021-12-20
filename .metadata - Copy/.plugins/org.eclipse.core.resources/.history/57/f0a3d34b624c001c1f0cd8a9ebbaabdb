@@ -1,0 +1,23 @@
+package com.TechNo.OverRidi;
+
+import java.util.Iterator;
+
+public class OverRiding3 {
+	public static void main(String[] args) {
+	//OverRiding obj=new OverRiding();
+	//obj.main2();
+		//OverRiding vi=new OverRiding();
+	//obj.main1();
+	int i;
+	int j;
+for (i = 10,j=0; i >0; i++,j--) ;
+{
+	System.out.println(i);
+	System.out.println(j);
+}
+{
+	
+}
+		
+	}
+}

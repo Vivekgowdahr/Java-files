@@ -1,0 +1,24 @@
+package com.techno.inheritance;
+
+public class Constructor 
+{
+
+Constructor()
+{
+	
+}
+Constructor(int a,byte b)
+{
+	
+}
+Constructor(int a,int b)
+{
+	
+}
+public static void main(String[] args) 
+{
+	new Constructor(10,20);
+	Constructor d1=new Constructor(10,20);
+	System.out.println(Constructor.a);
+}
+}

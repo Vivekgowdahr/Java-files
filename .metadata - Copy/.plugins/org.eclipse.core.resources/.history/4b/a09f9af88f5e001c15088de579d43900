@@ -1,0 +1,7 @@
+package owncustomeexception;
+
+public class CusException {
+public void happen() {
+	
+}
+}

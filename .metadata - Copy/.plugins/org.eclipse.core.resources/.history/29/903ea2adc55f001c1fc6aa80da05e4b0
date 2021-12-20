@@ -1,0 +1,20 @@
+package com.te.mock;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class SplitString {
+public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter the string");
+	String a=sc.nextLine();
+	System.out.println("Required split");
+	int s=sc.nextInt();
+	System.out.println("Required word to split");
+	String[] z=a.split(, s);
+	for (String x : z) {
+	System.out.println(x);	
+
+}
+}
+}

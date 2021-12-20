@@ -1,9 +1,0 @@
-package com.TY.arraypractise;
-
-public class ArraySorting 
-{
-public static void main(String[] args) 
-{
-	int []a={10,20,30,40,90,5236,-1};
-}
-}

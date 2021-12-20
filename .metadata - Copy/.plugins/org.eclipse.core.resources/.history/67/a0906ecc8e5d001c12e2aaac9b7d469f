@@ -1,0 +1,11 @@
+package com.te.arraylist;
+import java.util.*;
+
+public class ArrayListimplem {
+
+
+public static void main(String[] args) {
+	ArrayList<String>  arrayList = new ArrayList<String>();
+	arrayList.add(null);
+}
+}

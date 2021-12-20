@@ -1,9 +1,0 @@
-package com.TY.OOP;
-
-public class Eclairs {
-public static void main(String[] args) {
-	Chocolate  obj = new Chocolate ();
-	FiveStare obj2 = new FiveStare();
-	DairyMilk obj3 = new DairyMilk();
-}
-}

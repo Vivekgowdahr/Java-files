@@ -1,0 +1,14 @@
+package com.te.crud;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class TryWithResource {
+public static void main(String[] args) {
+	try(Connection con=DriverManager.getConnection("jdbc://mysql://localhost:3306/jdbcdemo?user=root&password=Vivekgowda@1998");) {
+		
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+}
+}

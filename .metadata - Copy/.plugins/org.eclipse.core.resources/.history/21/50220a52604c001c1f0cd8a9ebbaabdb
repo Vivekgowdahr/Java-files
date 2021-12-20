@@ -1,0 +1,12 @@
+package com.TechNo.OverRidi;
+
+public class OverRiding3 {
+	public static void main(String[] args) {
+		OverRiding2 obj=new OverRiding2();
+		obj.main2();
+		OverRiding vi=new OverRiding();
+	obj.main1();
+
+		
+	}
+}

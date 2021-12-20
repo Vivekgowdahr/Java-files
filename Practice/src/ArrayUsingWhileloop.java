@@ -2,9 +2,9 @@
 public class ArrayUsingWhileloop {
 	public static void main(String[] args) {
 		int[] a = { 5, 6, 7, 8, 9, 10 };
-		int i;
+		int i=0;
 		int temp;
-		i = 0;
+		
 		while (i < a.length) {
 			temp = a[i];
 			a[i] = a[i + 1];

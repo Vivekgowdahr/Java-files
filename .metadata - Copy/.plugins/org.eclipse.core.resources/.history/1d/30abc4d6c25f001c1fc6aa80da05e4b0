@@ -1,0 +1,17 @@
+package com.te.mock;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class SplitString {
+public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter the string");
+	String a=sc.next();
+	//char []s=a.toCharArray();
+	String[]s=a.split(" ",3);
+	for (String x : s) {
+	System.out.println(x);	
+	}
+}
+}

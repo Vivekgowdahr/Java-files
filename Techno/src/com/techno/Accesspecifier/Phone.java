@@ -1,4 +1,4 @@
-package com.techno.Accesspecifier;
+package com.techno.accesspecifier;
 
 public class Phone 
 {

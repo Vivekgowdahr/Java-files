@@ -1,0 +1,12 @@
+package com.te.customeexce;
+
+public class Mainexception {
+public void wrongaccess ()throws YouAreNotEligable {
+	System.out.println("Hello... sir");
+	throw
+}
+public static void main(String[] args) {
+	 Mainexception  mainexception = new  Mainexception();
+	 
+	}
+}

@@ -1,0 +1,18 @@
+package com.ty.string;
+
+import java.util.Scanner;
+
+public class RemoveDupInString {
+public static void main(String[] args) {
+//Scanner scanner = new Scanner(System.in);
+String s="welcome to techno";
+char [] a=s.toCharArray();
+for (int i = 0; i < a.length; i++) {
+	for (int j = 0; j < a.length; j++) {
+		int temp=a[i];
+		a[i]=a[j];
+		a[j]=temp;
+	}
+}
+}
+}

@@ -1,8 +1,0 @@
-package com.TY.OOP;
-
-public class Chocolate 
-{
-public void Sweet() {
-	System.out.println("It iis sweet and a bit bitter");
-}
-}
